@@ -101,24 +101,28 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
 ## Visualization & Insights
 
 ✔ Heatmaps
-![pic](https://github.com/user-attachments/assets/d26a3508-8a35-4211-822a-8e84599cef1e)
+
+![heatmap](https://github.com/user-attachments/assets/2d41bcb1-8f4c-4f5d-999b-7a676a673321)
+
 
 
 ✔ AUC Curve
 
-![pic](https://github.com/user-attachments/assets/f59f0b42-8830-4f38-94d0-35e5f487569a)
+![auc](https://github.com/user-attachments/assets/f396e389-7c0d-47d9-9b94-6886f491b804)
+
 
 
 ✔ Confusion Matrix
 
-![pic](https://github.com/user-attachments/assets/3edaf7d9-b52f-45c4-9aeb-9758f44afede)
+![confusion matrix](https://github.com/user-attachments/assets/6834b618-b7f5-4665-bd77-5804e41d709e)
+
 
 
 ✔ Outliers 
 
-![pic](https://github.com/user-attachments/assets/3cc03bb5-d8d6-4231-a975-4b8cc6490564)
+![outliers1](https://github.com/user-attachments/assets/0ea1312d-2172-4448-a793-d0f3329d2138)
 
-![pic](https://github.com/user-attachments/assets/2a2e9456-12a2-4cc6-ae42-3eb0e9e9cf4e)
+![outliers2](https://github.com/user-attachments/assets/f3f72b16-ef6c-4cb4-abb4-3c2a8e78b1f8)
 
 
 
