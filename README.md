@@ -131,10 +131,10 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
 
  - Clone the repository:
  - 
-   git clone https://github.com/yourusername/Customer-Churn-Prediction.git
+   git clone https://github.com/AmiraHassan2003/Customer_Churn_Detection.git
    
  - Navigate to the project folder:
-   cd Customer-Churn-Prediction
+   cd Customer-Churn-Detection
 
  - Install required dependencies:
    pip install -r requirements.txt
@@ -142,5 +142,5 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
  - Open the Jupyter Notebook:
   jupyter notebook
 
- - Run the notebook file churn_prediction.ipynb
+ - Run the notebook file main.ipynb
 
