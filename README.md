@@ -129,9 +129,18 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
 
 ## How to Run the Project
 
- - Install Dependencies:
-    pip install -r requirements.txt
+ - Clone the repository:
+ - 
+   git clone https://github.com/yourusername/Customer-Churn-Prediction.git
+   
+ - Navigate to the project folder:
+   cd Customer-Churn-Prediction
 
- - Run Preprocessing & Training:
-     python main.py
+ - Install required dependencies:
+   pip install -r requirements.txt
+
+ - Open the Jupyter Notebook:
+  jupyter notebook
+
+ - Run the notebook file churn_prediction.ipynb
 
