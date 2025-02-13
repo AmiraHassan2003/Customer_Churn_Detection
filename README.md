@@ -100,25 +100,25 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
 
 ## Visualization & Insights
 
-✔ Heatmaps
+### ✔ Heatmaps
 
 ![heatmap](https://github.com/user-attachments/assets/2d41bcb1-8f4c-4f5d-999b-7a676a673321)
 
 
 
-✔ AUC Curve
+### ✔ AUC Curve
 
 ![auc](https://github.com/user-attachments/assets/f396e389-7c0d-47d9-9b94-6886f491b804)
 
 
 
-✔ Confusion Matrix
+### ✔ Confusion Matrix
 
 ![confusion matrix](https://github.com/user-attachments/assets/6834b618-b7f5-4665-bd77-5804e41d709e)
 
 
 
-✔ Outliers 
+### ✔ Outliers 
 
 ![outliers1](https://github.com/user-attachments/assets/0ea1312d-2172-4448-a793-d0f3329d2138)
 
@@ -136,8 +136,6 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
  - Navigate to the project folder:
    cd Customer-Churn-Detection
 
- - Install required dependencies:
-   pip install -r requirements.txt
 
  - Open the Jupyter Notebook:
   jupyter notebook
