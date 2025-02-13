@@ -22,7 +22,7 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
 
 ## Workflow
 
-1. Data Exploration
+### 1. Data Exploration
  - Read Data: Load the dataset using Pandas.
    
  - Initial Insights:
@@ -33,7 +33,7 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
 
 
 
-2. Data Preprocessing
+### 2. Data Preprocessing
  - Categorical Features: Identified ['Surname', 'Geography', 'Gender'] as categorical.
  - Plotted bar charts for Geography and Gender distributions.
  - Numerical Features: Explored numerical features:
@@ -43,7 +43,7 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
 
 
    
-3. Handling Outliers
+### 3. Handling Outliers
  - Used Interquartile Range (IQR) to detect outliers in:
    CreditScore, Age, NumOfProducts.
    
@@ -53,7 +53,7 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
 
 
 
-4. Feature Engineering
+### 4. Feature Engineering
  - Feature Selection: Removed irrelevant columns:
  drop(columns=['Surname', 'RowNumber', 'CustomerId']).
 
@@ -63,14 +63,14 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
 
 
    
-5. Data Splitting & Scaling
+### 5. Data Splitting & Scaling
  - Train-Test Split: 80% training, 20% testing (Exited as the target variable).
  - Feature Scaling: Applied StandardScaler to:
    ['Balance', 'CreditScore', 'Age', 'Tenure', 'EstimatedSalary'].
 
 
    
-6. Model Selection & Evaluation
+### 6. Model Selection & Evaluation
    
  - Since the dataset is imbalanced, we used class_weight='balanced' to adjust for class distribution.
 
