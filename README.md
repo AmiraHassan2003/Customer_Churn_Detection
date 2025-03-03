@@ -110,13 +110,15 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
 
 ### ✔ AUC Curve
 
-![auc](https://github.com/user-attachments/assets/f396e389-7c0d-47d9-9b94-6886f491b804)
+![roc](https://github.com/user-attachments/assets/2ec11d40-b704-4163-965d-aff09e76c1d8)
+
 
 
 
 ### ✔ Confusion Matrix
 
-![confusion matrix](https://github.com/user-attachments/assets/6834b618-b7f5-4665-bd77-5804e41d709e)
+![confusion](https://github.com/user-attachments/assets/0e7fb5a8-e361-440b-be01-b8548b4b5f61)
+
 
 
 
