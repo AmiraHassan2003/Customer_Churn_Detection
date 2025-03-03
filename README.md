@@ -4,7 +4,7 @@
 
 This project focuses on predicting customer churn using a dataset of bank customers. The dataset includes various customer attributes, and multiple machine learning models are applied to classify whether a customer will exit or stay.
 
-After training several models, RandomForestClassifier was selected as the best model, achieving a test accuracy of 84% and an AUC score of 85%.
+After training several models, RandomForestClassifier was selected as the best model, achieving a test accuracy of 86% and an AUC score of 84%.
 
 
 
@@ -88,6 +88,8 @@ Numeric Features -> RowNumber, CustomerId, CreditScore, Age, Tenure, Balance, Nu
 
    
  - Best Model: RandomForestClassifier
+ - Best parameters for RandomForestClassifier: {'class_weight': None, 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 2, 'n_estimators': 100}
+
 
 
  - Evaluate models using:
